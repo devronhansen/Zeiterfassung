@@ -1,0 +1,14 @@
+c:\users\rohansen\documents\visual studio 2015\Projects\Zeiterfassung\Zeiterfassung\bin\Debug\Zeiterfassung.exe.config
+c:\users\rohansen\documents\visual studio 2015\Projects\Zeiterfassung\Zeiterfassung\obj\Debug\Zeiterfassung.Properties.Resources.resources
+c:\users\rohansen\documents\visual studio 2015\Projects\Zeiterfassung\Zeiterfassung\obj\Debug\Zeiterfassung.csproj.GenerateResource.Cache
+c:\users\rohansen\documents\visual studio 2015\Projects\Zeiterfassung\Zeiterfassung\bin\Debug\Zeiterfassung.exe
+c:\users\rohansen\documents\visual studio 2015\Projects\Zeiterfassung\Zeiterfassung\bin\Debug\Zeiterfassung.pdb
+c:\users\rohansen\documents\visual studio 2015\Projects\Zeiterfassung\Zeiterfassung\bin\Debug\MySql.Data.dll
+c:\users\rohansen\documents\visual studio 2015\Projects\Zeiterfassung\Zeiterfassung\bin\Debug\Phidget21.NET.dll
+c:\users\rohansen\documents\visual studio 2015\Projects\Zeiterfassung\Zeiterfassung\bin\Debug\MySql.Data.xml
+c:\users\rohansen\documents\visual studio 2015\Projects\Zeiterfassung\Zeiterfassung\obj\Debug\Zeiterfassung.Form1.resources
+c:\users\rohansen\documents\visual studio 2015\Projects\Zeiterfassung\Zeiterfassung\obj\Debug\Zeiterfassung.exe
+c:\users\rohansen\documents\visual studio 2015\Projects\Zeiterfassung\Zeiterfassung\obj\Debug\Zeiterfassung.pdb
+C:\Users\rohansen\Source\Repos\Zeiterfassung\Zeiterfassung\Zeiterfassung\bin\Debug\Zeiterfassung.exe.config
+C:\Users\rohansen\Source\Repos\Zeiterfassung\Zeiterfassung\Zeiterfassung\obj\Debug\Zeiterfassung.exe
+C:\Users\rohansen\Source\Repos\Zeiterfassung\Zeiterfassung\Zeiterfassung\obj\Debug\Zeiterfassung.pdb
