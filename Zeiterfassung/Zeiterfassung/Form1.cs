@@ -4,14 +4,13 @@ using Phidgets.Events; //Needed for the phidget event handling classes
 using System;
 using System.Drawing;
 using System.Text;
-
+//todo ausgetragen_am soll immer überschrieben werden wenn es ein eingetragen_am am selben tag gibt, konsole oder wat?
 namespace Zeiterfassung
 {
     public partial class Form1 : Form
     {
-        connectToDB db = new connectToDB();
         RFID rfid; //Declare an RFID object
-        string tag;
+
         public Form1()
         {
             InitializeComponent();
@@ -45,8 +44,10 @@ namespace Zeiterfassung
 
         void rfid_Tag(object sender, TagEventArgs e)
         {
-            tag = e.Tag;
-            Console.WriteLine(tag);
+            rfid.LED = false;
+            rfid.outputs[0] = true;
+            System.Threading.Thread.Sleep(500);
+            rfid.outputs[0] = false;
         }
 
         //attach event handler..populate the details fields as well as display the attached status.  enable the checkboxes to change
@@ -86,7 +87,11 @@ namespace Zeiterfassung
 
         void rfid_TagLost(object sender, TagEventArgs e)
         {
-            tag = "";
+            connectToDB db = new connectToDB();
+            db.updateDB(e.Tag, DateTime.Now);
+            rfid.LED = false;
+            rfid.outputs[0] = false;
+            rfid.outputs[1] = true;
         }
 
         void rfid_Detach(object sender, DetachEventArgs e)
