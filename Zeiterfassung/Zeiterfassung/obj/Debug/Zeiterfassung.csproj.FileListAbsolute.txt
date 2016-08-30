@@ -21,3 +21,6 @@ C:\Users\rohansen\Source\Repos\Zeiterfassung\Zeiterfassung\Zeiterfassung\obj\Deb
 C:\Users\rohansen\Source\Repos\Zeiterfassung\Zeiterfassung\Zeiterfassung\obj\Debug\Zeiterfassung.Form1.resources
 C:\Users\rohansen\Source\Repos\Zeiterfassung\Zeiterfassung\Zeiterfassung\obj\Debug\Zeiterfassung.Properties.Resources.resources
 C:\Users\rohansen\Source\Repos\Zeiterfassung\Zeiterfassung\Zeiterfassung\obj\Debug\Zeiterfassung.csproj.GenerateResource.Cache
+C:\Users\kestueve\Source\Repos\Zeiterfassung\Zeiterfassung\Zeiterfassung\bin\Debug\Zeiterfassung.exe.config
+C:\Users\kestueve\Source\Repos\Zeiterfassung\Zeiterfassung\Zeiterfassung\obj\Debug\Zeiterfassung.exe
+C:\Users\kestueve\Source\Repos\Zeiterfassung\Zeiterfassung\Zeiterfassung\obj\Debug\Zeiterfassung.pdb
