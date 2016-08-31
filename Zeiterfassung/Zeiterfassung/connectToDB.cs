@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using MySql.Data.MySqlClient;
 using System.Linq;
 
-namespace Zeiterfassung
+namespace zeiterfassung
 {
     class connectToDB
     {
@@ -79,7 +79,7 @@ namespace Zeiterfassung
             {
                 Console.WriteLine("Error: {0}", ex);
             }
-            
+
         }
 
         private void SearchForSameDate(DateTime zeiten)
